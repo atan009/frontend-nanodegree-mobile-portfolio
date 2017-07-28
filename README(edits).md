@@ -14,3 +14,4 @@ Removed Google Analytics scripts<br>
 Added media print query for print.css in index.html<br>
 Added Async to scripts<br>
 Inlined styles.css
+Added accelerated CSS in views/css/styles.css
